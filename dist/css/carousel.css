@@ -88,6 +88,7 @@ body {
    transform: translateY(-50%);
    bottom: initial;
   z-index: 10;
+  min-width: 50%;
   left: 50%;
 }
 
