@@ -88,7 +88,7 @@ body {
    transform: translateY(-50%);
    bottom: initial;
   z-index: 10;
-  width: 50%;
+  left: 50%;
 }
 
 /* Declare heights because of positioning of img element */
